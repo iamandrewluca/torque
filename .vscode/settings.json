@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.asset": "yaml",
+    "*.unity": "yaml",
+    "*.unity.meta": "yaml",
+    "*.meta": "yaml"
+  }
+}
