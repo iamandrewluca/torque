@@ -1,8 +1,11 @@
 {
-  "files.associations": {
-    "*.asset": "yaml",
-    "*.unity": "yaml",
-    "*.unity.meta": "yaml",
-    "*.meta": "yaml"
-  }
+	"files.associations": {
+		"*.asset": "yaml",
+		"*.unity": "yaml",
+		"*.unity.meta": "yaml",
+		"*.meta": "yaml"
+	},
+	"[csharp]": {
+		"editor.formatOnSave": true
+	}
 }
